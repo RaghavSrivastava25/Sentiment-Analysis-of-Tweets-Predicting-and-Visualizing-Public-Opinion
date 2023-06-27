@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 - The "ProsusAI/finbert" model: [Link to the model repository](https://github.com/ProsusAI/finbert)
-- Twitter logo: [Link to source](https://www.freepik.com)
+- Twitter logo: [Link to source](https://www.twitter.com)
 
 ## Contact
 For any questions or inquiries, please contact [mr.tachyon25@gmail.com](mailto:mr.tachyon25@gmail.com).
